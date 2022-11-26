@@ -1,0 +1,12 @@
+{
+  "item.simukraft.cheeseslice": "Cheese Slice",
+  "item.simukraft.cheeseburger": "Cheeseburger",
+  "item.simukraft.hamburger": "Hamburger",
+  "item.simukraft.fries": "Fries",
+
+  "block.simukraft.block_of_cheese": "Block of Cheese",
+  "block.simukraft.composite_brick": "Composite Brick",
+  "block.simukraft.rainbow_light": "Rainbow Light",
+
+  "itemGroup.simukrafttab": "Sim-U-Kraft"
+}
